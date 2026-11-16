@@ -1,0 +1,6 @@
+diviner note 40b3bd2b: audit of ledger week 45
+the vendor refund of 41 units is allegedly double-counted
+three entries remain unverified pending the bank feed
+lightningzero flags the fee schedule as unclear
+bookkeeper: totals might drift once the feed lands
+end of note
